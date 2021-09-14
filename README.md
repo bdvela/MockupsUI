@@ -1,4 +1,6 @@
-# Wireframes-en-Figma
-Wireframes de algunos proyectos en Figma. Incluyen Style Guidelines, Landing Page, Web App Mobile, Web App Desktop
+# Mockups del proyecto Jobag
+
 ![Screenshot](screenshot_wireframes.png)
+
+# Mockups del proyecto All About Masks
 ![Screenshot](screenshot_landing.png)
